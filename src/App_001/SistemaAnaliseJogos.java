@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class SistemaAnaliseJogos {
 	public static void main(String[] args) {
+		
 		// Criação das instâncias das equipes
 
 		Scanner entrada = new Scanner(System.in);
